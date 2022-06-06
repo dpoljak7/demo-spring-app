@@ -12,7 +12,7 @@ Default number of items is 4.
 # Swagger
 You can explore API using Swagger UI when you run the application and open:
 http://localhost:8080/swagger-ui/
-Exmaple for firstName values in database:
+Example for firstName values in database:
 firstName1
 firstName2
 
